@@ -1,1 +1,1 @@
-These files contains basic Java programming codes and output
+These files contains Java codes

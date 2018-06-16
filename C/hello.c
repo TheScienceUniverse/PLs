@@ -1,18 +1,8 @@
-/*
- * This file gives the hello world message after compiling and running it
-
- * $ gcc hello.c[ENTER]		...Compile, Creates default object file
- * $ ./a.out[ENTER]		...Run
- * $ rm a.out[ENTER]		...Delete
-
- * OR...
-
- * $ gcc hello.c -o H[ENTER]	...Compile, Creates named object file
- * $ ./H[ENTER]			...Run
- * $ rm H[ENTER]		...Delete
- */
+//$ gcc -Wall -o hello.c[ENTER]		=> Compile
+//$ ./H[ENTER]				=> Run
+//$ rm H[ENTER]				=> Delete Binary
 #include<stdio.h>
-int main(void){
+int main(){
 	printf("Hello, World!\n");
 	return 0;
 }
