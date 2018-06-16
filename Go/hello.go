@@ -1,4 +1,4 @@
-// $ csgo hello.go[ENTER]
+// $ go run hello.go[ENTER]
 
 package main
 
